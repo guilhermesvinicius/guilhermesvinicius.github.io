@@ -38,7 +38,6 @@
     border: 1px solid;
     border-radius: 4px;
 }
-
 .footer-copy{
     grid-column: 1 / -1;
     font-size: 1.125rem;
